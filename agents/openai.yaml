@@ -1,0 +1,4 @@
+interface:
+  display_name: "定制魔桶"
+  short_description: "用自己的四件幸运物和照片，制作可上板的魔桶互动摆件"
+  default_prompt: "使用 $magic-toilet-maker，帮我用自己选的四件幸运物和照片制作魔桶。"

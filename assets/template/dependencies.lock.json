@@ -1,0 +1,9 @@
+{
+  "board": "ESP32-S3-Touch-AMOLED-1.75C",
+  "arduino_cli": "1.6.0",
+  "arduino_esp32": "3.3.11",
+  "waveshare_release": "v1.0.2",
+  "archives": {
+    "waveshare-v1.0.2.tar.gz": "1a30f01bfe3009f2e626639e0b1b3986d4f5fb997f3faaf37260ac60f42fc802"
+  }
+}

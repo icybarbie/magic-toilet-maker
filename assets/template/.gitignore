@@ -1,0 +1,7 @@
+.venv/
+build/
+backups/
+assets/input/
+firmware/MagicToilet/MagicAssets.cpp
+firmware/MagicToilet/MagicAssets.h
+__pycache__/

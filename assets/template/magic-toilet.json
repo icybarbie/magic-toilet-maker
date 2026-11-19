@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "board_profile": "waveshare-1.75c-toilet-180",
+  "items": [
+    {
+      "name": "幸运物一",
+      "png": "assets/input/item0.png"
+    },
+    {
+      "name": "幸运物二",
+      "png": "assets/input/item1.png"
+    },
+    {
+      "name": "幸运物三",
+      "png": "assets/input/item2.png"
+    },
+    {
+      "name": "幸运物四",
+      "png": "assets/input/item3.png"
+    }
+  ],
+  "portrait": "assets/input/portrait.png",
+  "cjk_font": null
+}
